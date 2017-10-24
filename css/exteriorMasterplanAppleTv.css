@@ -1,0 +1,484 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:700,400,300');
+
+
+.exterior-masterplan-apple-tv {
+  width               : 100%;
+  min-width           : 1920px;
+  height              : 100%;
+  min-height          : 1080px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background          : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.exterior-masterplan-apple-tv .background {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : -4px;
+  top                 : -199px;
+  width               : 1930px;
+  margin              : 0;
+  height              : 1302px;
+}
+.exterior-masterplan-apple-tv .background .view1-copy {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 3px;
+  top                 : 0px;
+  width               : 1922px;
+  margin              : 0;
+  height              : 1302px;
+}
+.exterior-masterplan-apple-tv .background .mask {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 0px;
+  top                 : 197px;
+  width               : 1930px;
+  margin              : 0;
+  height              : 1090px;
+}
+.exterior-masterplan-apple-tv .vt-navigate {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 684px;
+  top                 : 830px;
+  width               : 554px;
+  margin              : 0;
+  height              : 101px;
+}
+.exterior-masterplan-apple-tv .vt-navigate .rectangle2 {
+  background          : rgba(215, 215, 215, 0.0);
+  position            : absolute;
+  left                : 0px;
+  top                 : 0px;
+  width               : 554px;
+  margin              : 0;
+  height              : 101px;
+  border-style        : solid;
+  border-width        : 2;
+  border-color        : rgba(255, 255, 255, 1.0);
+}
+.exterior-masterplan-apple-tv .vt-navigate .group2 {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 8px;
+  top                 : 7px;
+  width               : 266px;
+  margin              : 0;
+  height              : 88px;
+}
+.exterior-masterplan-apple-tv .vt-navigate .group2 .rectangle3 {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 0px;
+  top                 : 0px;
+  width               : 266px;
+  margin              : 0;
+  height              : 88px;
+}
+.exterior-masterplan-apple-tv .vt-navigate .group2 .virtual-tour {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 53px;
+  top                 : 24px;
+  width               : 160px;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 35.0px;
+}
+.exterior-masterplan-apple-tv .vt-navigate .group3 {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 281px;
+  top                 : 7px;
+  width               : 266px;
+  margin              : 0;
+  height              : 88px;
+}
+.exterior-masterplan-apple-tv .vt-navigate .group3 .view-apartments {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 17px;
+  top                 : 24px;
+  width               : auto;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 35.0px;
+}
+.exterior-masterplan-apple-tv .info-pins {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 594px;
+  top                 : 412px;
+  width               : 757px;
+  margin              : 0;
+  height              : 418px;
+}
+.exterior-masterplan-apple-tv .info-pins .group {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 0px;
+  top                 : 0px;
+  width               : 141px;
+  margin              : 0;
+  height              : 127px;
+}
+.exterior-masterplan-apple-tv .info-pins .group .teardrop {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 0px;
+  top                 : 0px;
+  width               : 141px;
+  margin              : 0;
+  height              : 127px;
+}
+.exterior-masterplan-apple-tv .info-pins .group .info {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 48px;
+  top                 : 29px;
+  width               : auto;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 25.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.exterior-masterplan-apple-tv .info-pins .view1 {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 616px;
+  top                 : 127px;
+  width               : 141px;
+  margin              : 0;
+  height              : 127px;
+}
+.exterior-masterplan-apple-tv .info-pins .view1 .image1 {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 0px;
+  top                 : 0px;
+  width               : 141px;
+  margin              : 0;
+  height              : 127px;
+}
+.exterior-masterplan-apple-tv .info-pins .view1 .label1 {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 48px;
+  top                 : 29px;
+  width               : auto;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 25.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.exterior-masterplan-apple-tv .info-pins .view2 {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 50px;
+  top                 : 291px;
+  width               : 141px;
+  margin              : 0;
+  height              : 127px;
+}
+.exterior-masterplan-apple-tv .info-pins .view2 .image2 {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 0px;
+  top                 : 0px;
+  width               : 141px;
+  margin              : 0;
+  height              : 127px;
+}
+.exterior-masterplan-apple-tv .info-pins .view2 .label2 {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 48px;
+  top                 : 29px;
+  width               : auto;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 25.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.exterior-masterplan-apple-tv .info-pins .view3 {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 296px;
+  top                 : 198px;
+  width               : 141px;
+  margin              : 0;
+  height              : 127px;
+}
+.exterior-masterplan-apple-tv .info-pins .view3 .image3 {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 0px;
+  top                 : 0px;
+  width               : 141px;
+  margin              : 0;
+  height              : 127px;
+}
+.exterior-masterplan-apple-tv .info-pins .view3 .label3 {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 48px;
+  top                 : 29px;
+  width               : auto;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 25.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.exterior-masterplan-apple-tv .main-menu {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : -1px;
+  top                 : 982px;
+  width               : 1921px;
+  margin              : 0;
+  height              : 88px;
+}
+.exterior-masterplan-apple-tv .main-menu .pinea-logo {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 61px;
+  top                 : 11px;
+  width               : 125px;
+  margin              : 0;
+  height              : 70px;
+}
+.exterior-masterplan-apple-tv .main-menu .injaz-logo {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 1631px;
+  top                 : 20px;
+  width               : 128px;
+  margin              : 0;
+  height              : 60px;
+}
+.exterior-masterplan-apple-tv .main-menu .palmvulogo {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 1809px;
+  top                 : 11px;
+  width               : 77px;
+  margin              : 0;
+  height              : 77px;
+}
+.exterior-masterplan-apple-tv .main-menu .line {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 0px;
+  top                 : 0px;
+  width               : 1921px;
+  margin              : 0;
+  height              : 2px;
+}
+.exterior-masterplan-apple-tv .main-menu .menu {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 456px;
+  top                 : 31px;
+  width               : 1010px;
+  margin              : 0;
+  height              : 30px;
+}
+.exterior-masterplan-apple-tv .main-menu .menu .a-bout {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : -1px;
+  top                 : 1px;
+  width               : auto;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 25.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.exterior-masterplan-apple-tv .main-menu .menu .label4 {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 183px;
+  top                 : 1px;
+  width               : auto;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 25.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.exterior-masterplan-apple-tv .main-menu .menu .g-allery {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 457px;
+  top                 : 0px;
+  width               : auto;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 25.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.exterior-masterplan-apple-tv .main-menu .menu .b-rochure {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 664px;
+  top                 : 1px;
+  width               : auto;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 25.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.exterior-masterplan-apple-tv .main-menu .menu .c-ontact {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 895px;
+  top                 : 1px;
+  width               : auto;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 25.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

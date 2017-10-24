@@ -1,0 +1,371 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:700,400,300');
+
+
+.brochure8-apple-tv {
+  width               : 100%;
+  min-width           : 1920px;
+  height              : 100%;
+  min-height          : 1080px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background          : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.brochure8-apple-tv .group {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 0px;
+  top                 : 0px;
+  width               : 1920px;
+  margin              : 0;
+  height              : 1080px;
+}
+.brochure8-apple-tv .group .rectangle2 {
+  background          : rgba(109, 148, 33, 1.0);
+  position            : absolute;
+  left                : 0px;
+  top                 : 0px;
+  width               : 1920px;
+  margin              : 0;
+  height              : 1080px;
+  border-style        : solid;
+  border-width        : 1;
+  border-color        : rgba(150, 150, 150, 1.0);
+}
+.brochure8-apple-tv .group .view1 {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 554px;
+  top                 : 861px;
+  width               : 848px;
+  margin              : 0;
+  height              : 88px;
+  border-style        : solid;
+  border-width        : 3;
+  border-color        : rgba(255, 255, 255, 1.0);
+}
+.brochure8-apple-tv .group .previous {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 554px;
+  top                 : 862px;
+  width               : 423px;
+  margin              : 0;
+  height              : 88px;
+}
+.brochure8-apple-tv .group .previous .label1 {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 118px;
+  top                 : 21px;
+  width               : 187px;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 42.0px;
+}
+.brochure8-apple-tv .group .previous .path3 {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 100px;
+  top                 : 27px;
+  width               : 23px;
+  margin              : 0;
+  height              : 34px;
+  -ms-transform       : rotate(-180deg); /* IE 9 */
+  -webkit-transform   : rotate(-180deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-180deg);
+}
+.brochure8-apple-tv .group .previous-copy {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 976px;
+  top                 : 862px;
+  width               : 423px;
+  margin              : 0;
+  height              : 88px;
+}
+.brochure8-apple-tv .group .previous-copy .next {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 118px;
+  top                 : 21px;
+  width               : 187px;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 42.0px;
+}
+.brochure8-apple-tv .group .previous-copy .image1 {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 302px;
+  top                 : 27px;
+  width               : 23px;
+  margin              : 0;
+  height              : 34px;
+}
+.brochure8-apple-tv .main-menu {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : -4px;
+  top                 : 981px;
+  width               : 1930px;
+  margin              : 0;
+  height              : 106px;
+  overflow            : hidden;
+}
+.brochure8-apple-tv .main-menu .mask {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 0px;
+  top                 : 0px;
+  width               : 1930px;
+  margin              : 0;
+  height              : 106px;
+}
+.brochure8-apple-tv .main-menu .pinea-logo {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 64px;
+  top                 : 12px;
+  width               : 125px;
+  margin              : 0;
+  height              : 70px;
+}
+.brochure8-apple-tv .main-menu .injaz-logo {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 1634px;
+  top                 : 21px;
+  width               : 128px;
+  margin              : 0;
+  height              : 60px;
+}
+.brochure8-apple-tv .main-menu .palmvulogo {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 1812px;
+  top                 : 12px;
+  width               : 77px;
+  margin              : 0;
+  height              : 77px;
+}
+.brochure8-apple-tv .main-menu .line {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 3px;
+  top                 : 1px;
+  width               : 1921px;
+  margin              : 0;
+  height              : 2px;
+}
+.brochure8-apple-tv .main-menu .menu {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 459px;
+  top                 : 32px;
+  width               : 1010px;
+  margin              : 0;
+  height              : 30px;
+}
+.brochure8-apple-tv .main-menu .menu .a-bout {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : -1px;
+  top                 : 1px;
+  width               : auto;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 25.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.brochure8-apple-tv .main-menu .menu .virtual-tour {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 183px;
+  top                 : 1px;
+  width               : auto;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 25.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.brochure8-apple-tv .main-menu .menu .g-allery {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 457px;
+  top                 : 0px;
+  width               : auto;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 25.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.brochure8-apple-tv .main-menu .menu .b-rochure {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 664px;
+  top                 : 1px;
+  width               : auto;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 25.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.brochure8-apple-tv .main-menu .menu .c-ontact {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 895px;
+  top                 : 1px;
+  width               : auto;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 25.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.brochure8-apple-tv .slider7 {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 277px;
+  top                 : 146px;
+  width               : 1366px;
+  margin              : 0;
+  height              : 683px;
+}
+.brochure8-apple-tv .check-out-our-brochu {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 699px;
+  top                 : 56px;
+  width               : auto;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 48.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 57.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

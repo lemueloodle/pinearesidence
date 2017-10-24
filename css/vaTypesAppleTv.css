@@ -1,0 +1,529 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:700,400,300');
+
+
+.va-types-apple-tv {
+  width               : 100%;
+  min-width           : 1920px;
+  height              : 100%;
+  min-height          : 1080px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background          : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.va-types-apple-tv .rectangle2 {
+  background          : rgba(109, 148, 33, 1.0);
+  position            : absolute;
+  left                : 0px;
+  top                 : 0px;
+  width               : 1920px;
+  margin              : 0;
+  height              : 1080px;
+  border-style        : solid;
+  border-width        : 1;
+  border-color        : rgba(150, 150, 150, 1.0);
+}
+.va-types-apple-tv .group {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 326px;
+  top                 : 830px;
+  width               : 1268px;
+  margin              : 0;
+  height              : 88px;
+}
+.va-types-apple-tv .group .view1 {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 0px;
+  top                 : 0px;
+  width               : 1268px;
+  margin              : 0;
+  height              : 88px;
+  border-style        : solid;
+  border-width        : 3;
+  border-color        : rgba(255, 255, 255, 1.0);
+}
+.va-types-apple-tv .group .previous {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 9px;
+  top                 : 9px;
+  width               : 409px;
+  margin              : 0;
+  height              : 70px;
+}
+.va-types-apple-tv .group .previous .rectangle3 {
+  background          : rgba(255, 255, 255, 1.0);
+  position            : absolute;
+  left                : 0px;
+  top                 : 0px;
+  width               : 409px;
+  margin              : 0;
+  height              : 70px;
+}
+.va-types-apple-tv .group .previous .view-all {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 130px;
+  top                 : 12px;
+  width               : 149px;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(51, 51, 51, 1.0);
+  text-align          : center;
+  line-height         : 42.0px;
+}
+.va-types-apple-tv .group .previous-copy {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 422px;
+  top                 : 9px;
+  width               : 409px;
+  margin              : 0;
+  height              : 70px;
+}
+.va-types-apple-tv .group .previous-copy .duplex-apartments {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 41px;
+  top                 : 13px;
+  width               : 341px;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 42.0px;
+}
+.va-types-apple-tv .group .view2 {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 845px;
+  top                 : 9px;
+  width               : 409px;
+  margin              : 0;
+  height              : 70px;
+}
+.va-types-apple-tv .group .view2 .simplex-apartments {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 41px;
+  top                 : 13px;
+  width               : 341px;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 42.0px;
+}
+.va-types-apple-tv .back-button {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 50px;
+  top                 : 50px;
+  width               : 179px;
+  margin              : 0;
+  height              : 88px;
+}
+.va-types-apple-tv .back-button .view3 {
+  background          : rgba(51, 51, 51, 1.0);
+  position            : absolute;
+  left                : 0px;
+  top                 : 0px;
+  width               : 179px;
+  margin              : 0;
+  height              : 88px;
+}
+.va-types-apple-tv .back-button .back {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 55px;
+  top                 : 24px;
+  width               : auto;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 35.0px;
+}
+.va-types-apple-tv .duplex-b {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 525px;
+  top                 : 235px;
+  width               : 400px;
+  margin              : 0;
+  height              : 495px;
+}
+.va-types-apple-tv .duplex-b .duplex2-lower-floor {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 0px;
+  top                 : 0px;
+  width               : 400px;
+  margin              : 0;
+  height              : 400px;
+}
+.va-types-apple-tv .duplex-b .a3-bedroom-duplex-ba {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 62px;
+  top                 : 425px;
+  width               : auto;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 35.0px;
+}
+.va-types-apple-tv .duplex-a {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 75px;
+  top                 : 235px;
+  width               : 400px;
+  margin              : 0;
+  height              : 495px;
+}
+.va-types-apple-tv .duplex-a .duplex1-lower-floor {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 0px;
+  top                 : 0px;
+  width               : 400px;
+  margin              : 0;
+  height              : 400px;
+}
+.va-types-apple-tv .duplex-a .a3-bedroom-duplex-aa {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 62px;
+  top                 : 425px;
+  width               : auto;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 35.0px;
+}
+.va-types-apple-tv .group3 {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 975px;
+  top                 : 235px;
+  width               : 400px;
+  margin              : 0;
+  height              : 495px;
+}
+.va-types-apple-tv .group3 .simplex2-bedrooms {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 0px;
+  top                 : 0px;
+  width               : 400px;
+  margin              : 0;
+  height              : 400px;
+}
+.va-types-apple-tv .group3 .a2-bedroom-simplex-a {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 53px;
+  top                 : 425px;
+  width               : auto;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 35.0px;
+}
+.va-types-apple-tv .group2 {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 1425px;
+  top                 : 235px;
+  width               : 400px;
+  margin              : 0;
+  height              : 495px;
+}
+.va-types-apple-tv .group2 .simplex3-bedrooms {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 0px;
+  top                 : 0px;
+  width               : 400px;
+  margin              : 0;
+  height              : 400px;
+}
+.va-types-apple-tv .group2 .a3-bedroom-simplex-b {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 54px;
+  top                 : 425px;
+  width               : auto;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 35.0px;
+}
+.va-types-apple-tv .main-menu {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : -4px;
+  top                 : 981px;
+  width               : 1930px;
+  margin              : 0;
+  height              : 106px;
+  overflow            : hidden;
+}
+.va-types-apple-tv .main-menu .mask {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 0px;
+  top                 : 0px;
+  width               : 1930px;
+  margin              : 0;
+  height              : 106px;
+}
+.va-types-apple-tv .main-menu .pinea-logo {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 64px;
+  top                 : 12px;
+  width               : 125px;
+  margin              : 0;
+  height              : 70px;
+}
+.va-types-apple-tv .main-menu .injaz-logo {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 1634px;
+  top                 : 21px;
+  width               : 128px;
+  margin              : 0;
+  height              : 60px;
+}
+.va-types-apple-tv .main-menu .palmvulogo {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 1812px;
+  top                 : 12px;
+  width               : 77px;
+  margin              : 0;
+  height              : 77px;
+}
+.va-types-apple-tv .main-menu .line {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 3px;
+  top                 : 1px;
+  width               : 1921px;
+  margin              : 0;
+  height              : 2px;
+}
+.va-types-apple-tv .main-menu .menu {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 459px;
+  top                 : 32px;
+  width               : 1010px;
+  margin              : 0;
+  height              : 30px;
+}
+.va-types-apple-tv .main-menu .menu .a-bout {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : -1px;
+  top                 : 1px;
+  width               : auto;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 25.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.va-types-apple-tv .main-menu .menu .virtual-tour {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 183px;
+  top                 : 1px;
+  width               : auto;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 25.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.va-types-apple-tv .main-menu .menu .g-allery {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 457px;
+  top                 : 0px;
+  width               : auto;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 25.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.va-types-apple-tv .main-menu .menu .b-rochure {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 664px;
+  top                 : 1px;
+  width               : auto;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 25.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.va-types-apple-tv .main-menu .menu .c-ontact {
+  background          : rgba(255, 255, 255, 0.0);
+  position            : absolute;
+  left                : 895px;
+  top                 : 1px;
+  width               : auto;
+  margin              : 0;
+  height              : auto;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 25.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
