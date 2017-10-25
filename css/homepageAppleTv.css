@@ -107,6 +107,54 @@ header .intro-text {
   background-size: cover;
 }
 
+
+@media (min-width: 768px){
+  .gallery-nav {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1030;
+    background-color: rgba(0, 0, 0,1);
+  }
+  .contact-nav {
+    
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1030;
+    background-color: rgba(0, 0, 0,0.5);
+  }
+}
+
+ .gallery-nav {
+    background-color: rgba(0, 0, 0, 0.5);
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1030;
+ }
+.contact-nav {
+    background-color: rgba(0, 0, 0, 0.5);
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1030;
+  }
+
+.nav-pills a.nav-link.active{
+    color: #000000;
+    background-color: #ffffff;
+}
+
+.nav-pills a.nav-link:hover{
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.nav-pills a.nav-link{
+    color: #ffffff;
+}
 /* End of Custom */
 
 
