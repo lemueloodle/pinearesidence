@@ -152,9 +152,16 @@ header .intro-text {
   .exteriormasterimg {
     position:absolute;  
   }
+  .vamasterimg {
+    position:absolute;  
+  }
 }
   
   .exteriormasterimg {
+    position:relative;  
+  }
+  
+  .vamasterimg {
     position:relative;  
   }
 

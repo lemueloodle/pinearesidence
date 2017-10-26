@@ -13,4 +13,11 @@ $(document).ready(function(e) {
 	$('area#aview3').on('click', function() {
 		$('#aview3modal').modal('show');
 	});
+
+	$('area#bgroup').on('click', function() {
+		$('#bgroupmodal').modal('show');
+	});
+	$('area#bview1').on('click', function() {
+		$('#bview1modal').modal('show');
+	});
 });
