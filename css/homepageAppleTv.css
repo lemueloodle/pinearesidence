@@ -39,6 +39,14 @@ body {overflow-x:hidden;}
 
 }
 
+.exteriormasterplan{
+    background: url("http://localhost/hanydweik2/img/exteriormasterplan.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 .navbar-nav>li>a:hover{
   background-color:transparent;
 }
@@ -141,9 +149,17 @@ header .intro-text {
     z-index: 1030;
     background-color: rgba(0, 0, 0,0.5);
   }
+  .exteriormasterimg {
+    position:absolute;  
+  }
 }
+  
+  .exteriormasterimg {
+    position:relative;  
+  }
 
  .gallery-nav {
+
     background-color: rgba(0, 0, 0, 0.5);
     right: 0;
     bottom: 0;
