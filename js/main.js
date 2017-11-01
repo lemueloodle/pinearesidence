@@ -20,4 +20,17 @@ $(document).ready(function(e) {
 	$('area#bview1').on('click', function() {
 		$('#bview1modal').modal('show');
 	});
+
+	$('.agroupclose').on('click', function() {
+		$('#agroupmodal').modal('hide');
+	});
+	$('.aview1close').on('click', function() {
+		$('#aview1modal').modal('hide');
+	});
+	$('.aview2close').on('click', function() {
+		$('#aview2modal').modal('hide');
+	});
+	$('.aview3close').on('click', function() {
+		$('#aview3modal').modal('hide');
+	});
 });
